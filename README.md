@@ -36,7 +36,7 @@ immersive learning.</h4>
 <div align='left'>
 <h2>Find me around the web 🌐</h2>
 <a href='https://www.linkedin.com/in/naveed-pasha-538790231' target='_blank'><img width='30px' height='30px'src='https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/linkedin/linkedin-original.svg'/></a>
- <a href='https://heynaveed.github.io/' target='_blank'><img width='30px' height='30px' src='https://t4.ftcdn.net/jpg/02/48/94/41/360_F_248944140_33I7k9ZWCm0OcmmDOuF2xk3bGXf2VzaP.jpg'/></a> 
+ <a href='https://heynaveed.github.io/' target='_blank'><img width='30px' height='30px' src='https://spng.pngfind.com/pngs/s/71-712882_corporate-and-business-law-portfolio-icon-png-transparent.png'/></a> 
 <a href='https://twitter.com/naveedpasha0058?t=fRvOOlEADFZqNyyHJOLoww&s=33' target='_blank'><img width='30px' height='30px' src='https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/twitter/twitter-original.svg'/></a>
 <h4>Mail : naveedpasha0058@gmail.com</h4>
 </div>
